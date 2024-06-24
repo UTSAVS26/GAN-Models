@@ -61,4 +61,4 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 
 ---
 
-### Happy Generating with cGAN! 🎨
+### Happy Generating with EBGAN! 🎨
