@@ -50,7 +50,6 @@ To use this implementation, follow these steps:
 
 - `ACGAN.py`: Contains the implementation of the ACGAN model, training loop, and saving of trained models.
 - `test_ACGAN.py`: Uses the trained generator to generate sample images after training.
-- `requirements.txt`: Lists the dependencies required to run the scripts.
 
 ## Contributing
 
